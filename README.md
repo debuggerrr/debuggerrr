@@ -1,5 +1,6 @@
 ### Hey, Siddhesh here, an experienced Data Engineer from India.
 
+- 📄 **AWS Data Analytics Certified**
 - 💬 Ask me about **Data Engineering Stuffs...**
 - 📫 How to reach me: kalgaonkarsiddhesh@gmail.com
 
