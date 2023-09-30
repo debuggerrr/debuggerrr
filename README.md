@@ -7,4 +7,4 @@ Check out my [Medium](https://sidk17.medium.com) profile. All views are personal
 
 ## Connect with me:
 
-[![linkedin-logo-2430](https://www.linkedin.com/in/si1992/)
+![linkedin-logo-2430](https://www.linkedin.com/in/si1992/)
