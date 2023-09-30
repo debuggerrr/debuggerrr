@@ -8,4 +8,4 @@ Check out my [Medium](https://sidk17.medium.com) profile. All views are personal
 ## Connect with me:
 
 
-![image](https://github.com/debuggerrr/debuggerrr/assets/16878718/ca19e334-e4ae-46ed-8f19-87e2d5b2b320)
+[![linkedin-logo-2430](https://github.com/debuggerrr/debuggerrr/assets/16878718/d7462643-a748-40c8-b046-7bbea94e7b77)](https://www.linkedin.com/in/sid1992/)
