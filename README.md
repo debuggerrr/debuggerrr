@@ -1,16 +1,11 @@
-### Hey, Siddhesh here, an experienced Data Engineer from India.
+![image](https://github.com/debuggerrr/debuggerrr/assets/16878718/15fe933d-6974-41a2-8db8-96876f490a83)![image](https://github.com/debuggerrr/debuggerrr/assets/16878718/2b2e2cb1-6aea-45e7-830a-4d6596c58b07)### Hey, Siddhesh here, an experienced Data Engineer from India.
+
+- ![aws png](https://github.com/debuggerrr/debuggerrr/assets/16878718/874460bd-beb9-4f2c-aa67-8a8365245082) [AWS DATA ANALYTICS CERTIFIED](https://www.credly.com/badges/f515bd1b-b503-446e-81f1-9009b242ba6b))
 
 - 💬 Ask me about **Data Engineering Stuffs...**
 - 📫 How to reach me: kalgaonkarsiddhesh@gmail.com
 
 Check out my [Medium](https://sidk17.medium.com) profile. All views are personal from my experience so far in this journey!
-
-Certifications!  
-
-
-![CLD](https://github.com/debuggerrr/debuggerrr/assets/16878718/b96f0f43-0a0b-47d7-8298-a221e0619810)
-
-
 
 <h3 align="left">Connect with me:</h3>
  <p align="left">
