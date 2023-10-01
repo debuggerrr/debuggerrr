@@ -1,6 +1,7 @@
 ### Hey, Siddhesh here, an experienced Data Engineer from India.
 
-- ![aws png](https://github.com/debuggerrr/debuggerrr/assets/16878718/874460bd-beb9-4f2c-aa67-8a8365245082) [AWS DATA ANALYTICS CERTIFIED](https://www.credly.com/badges/f515bd1b-b503-446e-81f1-9009b242ba6b))
+
+![DAS](https://github.com/debuggerrr/debuggerrr/assets/16878718/9f481ad9-363c-45f3-85a3-f1e1bef97c76)
 
 - 💬 Ask me about **Data Engineering Stuffs...**
 - 📫 How to reach me: kalgaonkarsiddhesh@gmail.com
