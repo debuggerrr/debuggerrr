@@ -3,7 +3,7 @@
 ![DAS](https://github.com/debuggerrr/debuggerrr/assets/16878718/9534017f-b0bc-4788-92f5-931eabeacdcb)
 
 
-- 💬 Ask me about **Architecting data pipelines...** I feel that challenging.
+- 💬 Ask me about **Data Engineering**
 - 📫 How to reach me: datawithsid@gmail.com
 
 Check out my [Medium](https://sidk17.medium.com) profile. All views are personal from my experience so far in this journey!
