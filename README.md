@@ -1,7 +1,7 @@
-### Hey, Siddhesh here, an experienced Data Engineer from India.
+### Hey, Siddhesh here!
 
+![DAS](https://github.com/debuggerrr/debuggerrr/assets/16878718/9534017f-b0bc-4788-92f5-931eabeacdcb)
 
-![DAS](https://github.com/debuggerrr/debuggerrr/assets/16878718/9f481ad9-363c-45f3-85a3-f1e1bef97c76)
 
 - 💬 Ask me about **Data Engineering Stuffs...**
 - 📫 How to reach me: kalgaonkarsiddhesh@gmail.com
