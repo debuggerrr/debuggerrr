@@ -1,4 +1,4 @@
-![image](https://github.com/debuggerrr/debuggerrr/assets/16878718/15fe933d-6974-41a2-8db8-96876f490a83)![image](https://github.com/debuggerrr/debuggerrr/assets/16878718/2b2e2cb1-6aea-45e7-830a-4d6596c58b07)### Hey, Siddhesh here, an experienced Data Engineer from India.
+### Hey, Siddhesh here, an experienced Data Engineer from India.
 
 - ![aws png](https://github.com/debuggerrr/debuggerrr/assets/16878718/874460bd-beb9-4f2c-aa67-8a8365245082) [AWS DATA ANALYTICS CERTIFIED](https://www.credly.com/badges/f515bd1b-b503-446e-81f1-9009b242ba6b))
 
