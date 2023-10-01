@@ -7,8 +7,8 @@ Check out my [Medium](https://sidk17.medium.com) profile. All views are personal
 
 Certifications!  
 
-![image](https://github.com/debuggerrr/debuggerrr/assets/16878718/91fbdc6b-4368-4662-9b1f-df38db569b76)   
-![image](https://github.com/debuggerrr/debuggerrr/assets/16878718/3b4f5268-37b7-42f2-bc9e-e62f342e466d)
+
+![CLD](https://github.com/debuggerrr/debuggerrr/assets/16878718/b96f0f43-0a0b-47d7-8298-a221e0619810)
 
 
 
