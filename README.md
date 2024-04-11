@@ -4,7 +4,7 @@
 
 
 - 💬 Ask me about **Data Engineering**
-- 📫 How to reach me: datawithsid@gmail.com
+- 📫 How to reach me: kalgaonkarsiddhesh@gmail.com
 
 Check out my [Medium](https://sidk17.medium.com) profile. All views are personal from my experience so far in this journey!
 
