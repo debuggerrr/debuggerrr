@@ -1,7 +1,7 @@
 ### Hey, Siddhesh here!
 
 ![DAS](https://github.com/debuggerrr/debuggerrr/assets/16878718/9534017f-b0bc-4788-92f5-931eabeacdcb)
-<img width="543" alt="image" src="https://github.com/user-attachments/assets/a9980e92-41ba-47cd-82a6-c2b0542bd687" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/a9980e92-41ba-47cd-82a6-c2b0542bd687" />
 
 
 - 💬 Ask me about **Data Engineering**
